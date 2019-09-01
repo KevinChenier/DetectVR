@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_treadmill.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity_Projects\\VR_Treadmill\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Treadmill [Testing]"
+        }
+      }
+    }
+  ]
+}
